@@ -2,6 +2,7 @@
 # Shodan WP Finder
 
 A powerful and fast WordPress discovery tool using Shodan search engine results. (Shodan API required)
+<img width="526" height="235" alt="Screenshot From 2025-11-02 19-06-31" src="https://github.com/user-attachments/assets/5deb1c04-be9f-4375-9ce1-6311ecdd747f" />
 
 ## Features
 
